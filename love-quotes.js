@@ -10,7 +10,7 @@ const loveQuotes = [
     "I love you not because of who you are, but because of who I am when I am with you.",
     "I love you, not just for what you are, but for what I am when I am with you.",
     "The greatest thing you'll ever learn is just to love, and be loved in return.",
-    "When I say I love you more, I don't mean I love you more than you love me. I mean I love you more than the bad days ahead of us, I love you more than any fight we will ever have. I love you more than the distance between us, I love you more than any obstacle that could try and come between us. I love you the most."
+    "When I say I love you more, I don't mean I love you more than you love me. I mean I love you more than the bad days ahead of us, I love you more than any fight we will ever have. I love you more than the distance between us, I love you more than any obstacle that could try and come between us. I love you the most.",
     "I want to be with you until the sun falls from the sky.",
     "I saw that you were perfect, and so I loved you. Then I saw that you were not perfect and I loved you even more.",
     "To be your friend was all I ever wanted; to be your lover was all I ever dreamed.",
