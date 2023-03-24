@@ -6,6 +6,9 @@ body {
 body {
   background-image: url('imaage.jpg');
 }
+body {
+  background-image: url('giff.gif');
+}
 /* Center the container */
 .container {
   max-width: 600px;
