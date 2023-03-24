@@ -1,7 +1,6 @@
 /* Set the font family and background color of the body */
 body {
   font-family: Arial, sans-serif;
-  background-color: #f9f9f9;
   background-image: url('imaage.jpg');
 }
 
