@@ -16,7 +16,6 @@ const loveQuotes = [
     "To be your friend was all I ever wanted; to be your lover was all I ever dreamed.",
     "I love you, not only for what you are, but for what I am when I am with you.",
     "In all the world, there is no heart for me like yours. In all the world, there is no love for you like mine."
-
 ];
 
 const loveForm = document.getElementById("love-form");
