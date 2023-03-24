@@ -1,9 +1,11 @@
 /* Set the font family and background color of the body */
 body {
   font-family: Arial, sans-serif;
+   background-color: #f9f9f9;
+}
+body {
   background-image: url('imaage.jpg');
 }
-
 /* Center the container */
 .container {
   max-width: 600px;
