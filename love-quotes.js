@@ -1,11 +1,11 @@
 const loveQuotes = [
-    "You had me at hello, vedu .",
+    "You had me at hello, .",
     "I have waited for this opportunity for more than half a century, to repeat to you once again my vow of eternal fidelity and everlasting love.",
     "I would rather spend one lifetime with you, than face all the ages of this world alone.",
     "I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.",
     "I am yours, don't give myself back to me.",
     "I loved her not for the way she danced with my angels, but for the way the sound of her name could silence my demons.",
-    "I love you vedanshi, not only for what you are, but for what I am when I am with you.",
+    "I love you, not only for what you are, but for what I am when I am with you.",
     "I've fallen in love many times... but always with you.",
     "I love you not because of who you are, but because of who I am when I am with you.",
     "I love you, not just for what you are, but for what I am when I am with you.",
